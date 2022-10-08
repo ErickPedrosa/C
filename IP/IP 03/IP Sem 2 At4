@@ -1,0 +1,18 @@
+<inicio>
+	//Declaração das variáveis
+	real:X,Y,Z;
+	
+	//Leitura de dados
+	imprime:("Qual o numero que deve ser dividido?");
+	leia:(X);
+
+	//Processamento de dados
+	Z = 1 
+	Enquanto Z != X faça
+		Y = X MOD Z
+		Se Y == 0 então 
+			imprime:(Z + "é um divisor de" + X);
+		Fim se
+		Z = Z + 1
+	Fim enquanto
+<Fim>

@@ -1,0 +1,38 @@
+<inicio>
+	//Declaração das variáveis
+	inteiro:S;
+	
+	//Leitura de dados
+	imprime:("Qual o dia da semana?(Digite um núero de 1 a 7)");
+	leia:(S);
+	
+	//Processamento de dados
+	Se S==1
+		imprime:("Hoje é domingo");
+	Senão
+		Se S==2
+			imprime:("Hoje é segunda-feira");
+		Senão
+			Se S==3
+				imprime:("Hoje é terça-feira");
+			Senão
+				Se S==4
+					imprime:("Hoje é quarta-feira");
+				Senão
+					Se S==5
+						imprime:("Hoje é quinta-feira");
+					Senão
+						Se S==6
+							imprime:("Hoje é sexta-feira");
+						Senão
+							Se S==7
+								imprime:("Hoje é sabado");
+							Senão
+							Fim se
+						Fim se
+					Fim se
+				Fim se
+			Fim se
+		Fim se
+	Fim se
+<Fim>

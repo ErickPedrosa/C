@@ -1,0 +1,41 @@
+//Usando repita-até
+
+<inicio>
+	//Declaração das variáveis
+	real:X,Y,NUM;
+	constante:limite = 10;
+	
+	//Leitura de dados
+	imprime:("Qual o numero a ser calculado?");
+	leia:(NUM);
+	
+	//Processamento de dados
+	X = 1
+	
+	Repita
+		Y = NUM * X
+		imprime:(NUM + "vezes" + X + "é igual a" + Y);
+		X = X + 1
+	Até X <= limite
+<Fim>
+
+
+
+
+//Usando para
+
+<inicio>
+	//Declaração das variáveis
+	real:X,Y,NUM;
+	constante:limite = 10;
+
+	//Processamento de dados
+
+	Para X de 1 até limite
+		imprime:("Qual o numero a ser calculado?");
+		leia:(NUM);
+	
+		Y = NUM * X
+		imprime:(NUM + "vezes" + X + "é igual a" + Y);
+	Fim para
+<Fim>

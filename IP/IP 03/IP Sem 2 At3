@@ -1,0 +1,19 @@
+<inicio>
+	//Declaração das variáveis
+	real:totalA,totalD,totalF;
+	
+	//Leitura de dados
+	imprime:("Qual o numero que deve ser multiplicado?");
+	leia:(totalA);
+	imprime:("Qual o outro numero que deve ser multiplicado?");
+	leia:(totalD);
+	
+	//Processamento de dados
+	
+	Enquanto totalA ou totalD != 0 faça
+		totalF = totalA * totalD
+		imprime:("O resultado é" + totalF + ".(Insira outro numero diferente de zero para continuar a multiplicação)");
+		leia:(totalA);
+		totalD = totalF	
+	Fim enquanto
+<Fim>

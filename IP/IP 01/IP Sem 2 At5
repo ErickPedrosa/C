@@ -1,0 +1,31 @@
+<inicio>
+	//Declaração das variáveis
+	real:X,Y,Z,A,B,C;
+	
+	//Leitura de dados
+	imprime:("Qual é o primeiro comprimento?");
+	leia:(X);
+	imprime:("Qual é o segundo comprimento?");
+	leia:(Y);
+	imprime:("Qual é o terceiro comprimento?");
+	leia:(Z);
+	
+	//Processamento de dados
+	A=(Y+Z);
+	B=(X+Z);
+	C=(X+Y);
+	
+	Se X >= A então
+		imprime:("Com os comprimentos dados é impossível formar um triângulo.");
+	Senão	
+		Se Y >= B então
+			imprime:("Com os comprimentos dados é impossível formar um triângulo.");
+		Senão
+			Se Z >= C então
+				imprime:("Com os comprimentos dados é impossível formar um triângulo.");
+			Senão
+				imprime:("Com os comprimentos dados é possível formar um triângulo.");
+			Fim se
+		Fim se
+	Fim se
+<Fim>

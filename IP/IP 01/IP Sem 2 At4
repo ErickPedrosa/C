@@ -1,0 +1,36 @@
+<inicio>
+	//Declaração das variáveis
+	inteiro:N,X;
+	real:Z;
+	caracter:D;
+	
+	//Leitura de dados
+	imprime:("Digite o primeiro numero");
+	leia:(N);
+	imprime:("Digite o segundo numero");
+	leia:(X);
+	imprime:("Qual a operação a ser realizada?(Digite * para vezes, / para divisão, + para soma e - para subtração)");
+	leia:(D);
+	
+	//Processamento de dados
+	Se D==+ então
+		Z=(N+X);
+		imprime:("O resultado da operação é" + Z);
+	Senão
+		Se D==- então
+			Z=(N-X);
+			imprime:("O resultado da operação é" + Z);
+		Senão
+			Se D==* então
+				Z=(N*X);
+				imprime:("O resultado da operação é" + Z);
+			Senão
+				Se D==/ então
+					Z=(N/X);
+					imprime:("O resultado da operação é" + Z);
+				Senão
+				Fim se
+			Fim se
+		Fim se
+	Fim se
+<Fim>

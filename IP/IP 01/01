@@ -1,0 +1,12 @@
+<Início>
+		inteiro: I;
+		string: N,sex;
+	imprime("Qual é o seu nome?")
+	leia(N)
+	imprime("Qual é o seu sexo?")
+	leia(sex)
+	imprime("Qual a sua idade?")
+	leia(I)
+	
+	imprime("Oi me chamo" + N + ",tenho" + I + "anos e sou do gênero" + sex)
+<Fim>

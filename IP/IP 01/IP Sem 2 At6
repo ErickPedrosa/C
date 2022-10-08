@@ -1,0 +1,45 @@
+<inicio>
+	//Declaração das variáveis
+	real:P,H,I;
+	string:user;
+	caracter:S;
+
+	//Leitura de dados
+	imprime:("Qual é o seu nome?");
+	leia:(user);
+	imprime:("Qual o seu peso?");
+	leia:(P);
+	imprime:("Qual é a sua altura?");
+	leia:(H);
+	imprime:("Qual é o seu sexo?(Digite M para masculino e F para feminino)");
+	leia:(S);
+	
+	//Processamento de dados
+	Se S==M então
+		I=(72.7 * H) - 58
+		Se P==I então
+			imprime:("Olá" + user + "você está exatamente no seu peso ideal.");
+		Senão
+			Se P>I então
+				imprime:("Olá" + user + "você está acima do seu peso ideal, que é" + I);
+			Senão
+				imprime:("Olá" + user + "você está abaixo do seu peso ideal, que é" + I);
+			Fim se
+		Fim se
+	Senão
+		Se S==F então
+		I=(62.1 * h) - 44.7
+			Se P==I então
+				imprime:("Olá" + user + "você está exatamente no seu peso ideal.");
+			Senão
+				Se P>I então
+					imprime:("Olá" + user + "você está acima do seu peso ideal, que é" + I);
+				Senão
+					imprime:("Olá" + user + "você está abaixo do seu peso ideal, que é" + I);
+				Fim se
+			Fim se
+		Senão
+			imprime:("Olá" + user + "infelimente não conseguimos calcular seu peso ideal.");
+		Fim se
+	Fim se
+<Fim>

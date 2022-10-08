@@ -1,0 +1,18 @@
+<inicio>
+	//Declaração das variáveis
+	real:X,Y,NUM;
+	constante:limite = 10;
+	
+	//Leitura de dados
+	imprime:("Qual o numero a ser calculado?");
+	leia:(NUM);
+	
+	//Processamento de dados
+	X=1
+	
+	Enquanto X <= limite faça
+		Y = NUM * X
+		imprime:(NUM + "vezes" + X + "é igual a" + Y);
+		X = X + 1
+	Fim enquanto
+<Fim>

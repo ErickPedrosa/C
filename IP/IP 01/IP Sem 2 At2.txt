@@ -1,0 +1,21 @@
+<inicio>
+	//Declaração das variáveis
+	inteiro:N,X;
+	
+	//Leitura de dados
+	imprime:("Qual o numero a ser verificado?");
+	leia:(N);
+	imprime:("Qual o outro numero a ser verificado?");
+	leia:(X);
+	
+	//Processamento de dados
+	Se N > X então
+		imprime:(N + "é maior que" + X);
+	Senão
+		Se N < X então
+			imprime:(N + "é menor que" + X);
+		Senão
+			imprime:(N + "é igual a" + X);
+		Fim se
+	Fim se
+<Fim>	

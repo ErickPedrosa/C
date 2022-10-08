@@ -1,0 +1,17 @@
+<inicio>
+	//Declaração das variáveis
+	inteiro:N,X;
+	
+	//Leitura de dados
+	imprime:("Qual o numero a ser verificado?");
+	leia:(N);
+	
+	//Processamento de dados
+	X=(N MOD 2)
+	
+	Se X==0 então
+		imprime:("O numero é par");
+	Senão
+		imprime:("O numero é ímpar");
+	Fim se
+<Fim>

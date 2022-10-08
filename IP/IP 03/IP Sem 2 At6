@@ -1,0 +1,41 @@
+//Usando repita-até
+<inicio>
+	//Declaração das variáveis
+	inteiro:i,x,y;
+	constante: limite = 100;
+	
+	//Processamento de dados
+	i=0;
+	
+	Repita	
+		y=i
+		x=(y MOD 2)
+		Se x!=0 então
+			imprime:( i );
+		Fim se
+		i=i+1
+	Até i <= limite
+<Fim>
+	
+
+
+
+
+//Usando para	
+
+<inicio>
+	//Declaração das variáveis
+	inteiro:i,x,y;
+	constante: limite = 100;
+	
+	//Processamento de dados
+
+	Para i de 0 até limite
+		y=i
+		x=(y MOD 2)
+		Se x!=0 então
+			imprime:( i );
+		Fim se
+	Fim para
+<Fim>
+	

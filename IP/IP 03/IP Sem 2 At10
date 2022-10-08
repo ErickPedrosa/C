@@ -1,0 +1,84 @@
+//Usando repita-até
+
+<inicio>
+	
+	//Declaração das variáveis;
+	inteiro:i,A,R;
+	real:n,t,m,Pe;
+	constante:num_aluno = 30;
+	
+	//Leitura de dados
+	imprime:("Qual a nota do aluno 1?");
+	leia:(n);
+
+	//Processamento de dados
+	i = 1
+	y = 0
+	A = 0
+	R = 0
+	
+	Repita
+		t = n + y
+		y = t 
+		Se n >= 60 então 
+			imprime:("O aluno" + i + "foi aprovado");
+			A = A + 1
+		Senão 
+			imprime:("O aluno" + i + "foi reprovado");
+			R = R + 1
+		Fim se
+		i = i + 1
+		imprime:("Qual a nota do aluno" + i + "?");
+		leia:(n);
+	Até i <= num_aluno
+	
+	i = i - 1
+	m = t / i
+	imprime:("A média total dos alunos foi de" + m + "pontos");
+	imprime:("Um total de" + A + "alunos foram aprovados e um total de" + R + "alunos foram reprovados");
+	
+	Pe = (A / i)* 100
+	imprime:("O percentual de alunos aprovados foi de" + Pe + "porcento");
+	
+<Fim>
+
+
+
+
+
+//Usando para
+
+<inicio>
+	
+	//Declaração das variáveis;
+	inteiro:i,A,R;
+	real:n,t,m,Pe;
+	constante:num_aluno = 30;
+
+	//Processamento de dados
+	y = 0
+	A = 0
+	R = 0
+	
+	Para i de 1 até num_aluno
+		imprime:("Qual a nota do aluno" + i + "?");
+		leia:(n);
+		t = n + y
+		y = t 
+		Se n >= 60 então 
+			imprime:("O aluno" + i + "foi aprovado");
+			A = A + 1
+		Senão 
+			imprime:("O aluno" + i + "foi reprovado");
+			R = R + 1
+		Fim se
+	Fim para
+	
+	m = t / i
+	imprime:("A média total dos alunos foi de" + m + "pontos");
+	imprime:("Um total de" + A + "alunos foram aprovados e um total de" + R + "alunos foram reprovados");
+	
+	Pe = (A / i)* 100
+	imprime:("O percentual de alunos aprovados foi de" + Pe + "porcento");
+	
+<Fim>
