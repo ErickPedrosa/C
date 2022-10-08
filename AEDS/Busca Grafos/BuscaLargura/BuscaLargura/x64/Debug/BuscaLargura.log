@@ -1,0 +1,11 @@
+﻿  estruturas.c
+C:\Users\erick\Meus Programas\AEDS\Busca Grafos\BuscaLargura\BuscaLargura\estruturas.c(9,35): warning C4028: parâmetro formal 2 diferente da declaração
+C:\Users\erick\Meus Programas\AEDS\Busca Grafos\BuscaLargura\BuscaLargura\estruturas.c(11,13): warning C4047: '=': 'int' difere em níveis de indireção de 'int *'
+C:\Users\erick\Meus Programas\AEDS\Busca Grafos\BuscaLargura\BuscaLargura\estruturas.c(27,13): warning C4047: '=': 'int *' difere em níveis de indireção de 'int'
+C:\Users\erick\Meus Programas\AEDS\Busca Grafos\BuscaLargura\BuscaLargura\estruturas.c(51,7): warning C4013: 'strcmp' indefinido; assumindo extern retornando int
+C:\Users\erick\Meus Programas\AEDS\Busca Grafos\BuscaLargura\BuscaLargura\estruturas.c(62,50): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'int'
+C:\Users\erick\Meus Programas\AEDS\Busca Grafos\BuscaLargura\BuscaLargura\estruturas.c(62,50): warning C4313: 'printf': '%s' na cadeia de formato está em conflito com o argumento 1 do tipo 'int'
+  main.c
+  Gerando Código...
+C:\Users\erick\Meus Programas\AEDS\Busca Grafos\BuscaLargura\BuscaLargura\estruturas.c(122): warning C4715: 'lst_busca': nem todos os caminhos de controle retornam um valor
+  BuscaLargura.vcxproj -> C:\Users\erick\Meus Programas\AEDS\Busca Grafos\BuscaLargura\x64\Debug\BuscaLargura.exe

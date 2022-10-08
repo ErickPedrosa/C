@@ -1,0 +1,5 @@
+Queue
+Not sure
+Impossible
+Stack
+Priority Queue

@@ -1,0 +1,22 @@
+main.c usado apenas para debugar o código e verificar se as funções funcionaram corretamente.
+
+MatrizAdj.c equivale  ao exercício 1.
+
+ListaAdj.c equivale  ao exercício 2.
+
+Fabricio.c equivale  ao exercício 3. // A reportagem do erro ocorre por um sistema de pesos tal qual um servidor isolado possui um peso maior que uma unica máquina sem conexão com o servidor;
+// O grafo utilizado possui 90 x 90 de tamanho;
+// O - 9 = Equivale aos 10 servidores;
+// 10 - 89 = Equivale as 80 máquinas, sendo cada 8 delas conectadas a 1 servidor da seguinte forma:
+
+* 10 - 17 = Ligados ao servidor 0;
+* 18 - 25 = Ligados ao servidor 1;
+* 26 - 33 = Ligados ao servidor 2;
+* 34 - 41 = Ligados ao servidor 3;
+* 42 - 49 = Ligados ao servidor 4;
+* 50 - 57 = Ligados ao servidor 5;
+* 58 - 65 = Ligados ao servidor 6;
+* 66 - 73 = Ligados ao servidor 7;
+* 74 - 81 = Ligados ao servidor 8;
+* 82 - 89 = Ligados ao servidor 9;
+
