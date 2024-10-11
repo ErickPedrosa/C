@@ -43,7 +43,7 @@ void ex1(void){
 
     printf("1-a) %d \n", (3 + 4) );
     printf("1-b) %d \n", (7 / 4) );
-    printf("1-c) %d \n", pow(3, 2) );
+    printf("1-c) %f \n", pow(3, 2) );
     printf("1-d) %f \n", (5.3 * 2.1) );
     printf("1-e) %d \n", (2 * 5 - 2) );
     printf("1-f) %d \n", (2 + 2 * 5) );
