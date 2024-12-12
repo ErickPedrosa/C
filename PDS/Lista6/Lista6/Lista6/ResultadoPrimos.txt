@@ -1,0 +1,11 @@
+O número  3 é primo
+O número 4 não é primo
+O número  5 é primo
+O número 6 não é primo
+O número  7 é primo
+O número 8 não é primo
+O número 9 não é primo
+O número 1 não é primo
+O número  3 é primo
+O número  3 é primo
+O número  3 é primo
