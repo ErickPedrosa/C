@@ -1,0 +1,19 @@
+﻿  main.c
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(113,38): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(119,11): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'pokemon'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(119,11): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 2 tem o tipo 'pokemon'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(163,38): warning C4244: '=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(169,11): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'pokemon'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(169,11): warning C4477: 'printf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 2 tem o tipo 'pokemon'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(224,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(228,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(241,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(245,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(258,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(262,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(275,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(279,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(292,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(296,11): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\PokemonGame\main.c(306,1): warning C4715: 'verificaDano': nem todos os caminhos de controle retornam um valor
+  PokemonGame.vcxproj -> C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\TrabalhoPratico\PokemonGame\x64\Debug\PokemonGame.exe
