@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\Lista9\Lista9\main.c(181,32): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  Lista9.vcxproj -> C:\Users\Alguém\OneDrive\Documentos\GitHub\C\PDS\Lista9\Lista9\x64\Debug\Lista9.exe

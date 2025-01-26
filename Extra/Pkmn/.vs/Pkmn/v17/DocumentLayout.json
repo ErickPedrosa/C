@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Algu\u00E9m\\OneDrive\\Documentos\\GitHub\\C\\Extra\\Pkmn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE9E171-4F5A-4BDC-9B0E-48F1C53A5518}|Pkmn.vcxproj|C:\\Users\\Algu\u00E9m\\OneDrive\\Documentos\\GitHub\\C\\Extra\\Pkmn\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DE9E171-4F5A-4BDC-9B0E-48F1C53A5518}|Pkmn.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE9E171-4F5A-4BDC-9B0E-48F1C53A5518}|Pkmn.vcxproj|C:\\Users\\Algu\u00E9m\\OneDrive\\Documentos\\GitHub\\C\\Extra\\Pkmn\\Pokemon.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3DE9E171-4F5A-4BDC-9B0E-48F1C53A5518}|Pkmn.vcxproj|solutionrelative:Pokemon.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pokemon.txt",
+              "DocumentMoniker": "C:\\Users\\Algu\u00E9m\\OneDrive\\Documentos\\GitHub\\C\\Extra\\Pkmn\\Pokemon.txt",
+              "RelativeDocumentMoniker": "Pokemon.txt",
+              "ToolTip": "C:\\Users\\Algu\u00E9m\\OneDrive\\Documentos\\GitHub\\C\\Extra\\Pkmn\\Pokemon.txt",
+              "RelativeToolTip": "Pokemon.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-18T17:57:19.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Algu\u00E9m\\OneDrive\\Documentos\\GitHub\\C\\Extra\\Pkmn\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Algu\u00E9m\\OneDrive\\Documentos\\GitHub\\C\\Extra\\Pkmn\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-18T17:55:15.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

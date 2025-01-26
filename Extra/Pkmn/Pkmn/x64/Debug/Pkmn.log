@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(22,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(26,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(34,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(38,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(46,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(50,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(59,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(63,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(72,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(76,16): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(171,28): warning C4244: '-=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(191,28): warning C4244: '-=': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(168,33): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\main.c(188,82): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  Pkmn.vcxproj -> C:\Users\Alguém\OneDrive\Documentos\GitHub\C\Extra\Pkmn\x64\Debug\Pkmn.exe
