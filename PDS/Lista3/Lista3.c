@@ -10,7 +10,7 @@
 #define SUCESSO 0
 
 typedef unsigned int uint;
-
+//Mudando algo no arquivo para o exemplo
 
 float max(float a, float b, float c);
 float min(float a, float b, float c);
